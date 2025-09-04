@@ -108,7 +108,7 @@
     <httpdlog-parser.version>3.0</httpdlog-parser.version>
     <joda-time.version>2.9.7</joda-time.version>
     <json-path.version>2.2.0</json-path.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <juniversalchardet.version>1.0.3</juniversalchardet.version>
     <kafka.clients.version>0.10.2.1</kafka.clients.version>
     <natty.version>0.13</natty.version>
@@ -116,7 +116,7 @@
     <netty.version>4.1.75.Final</netty.version>
     <javax.ws.rs-api.version>2.0</javax.ws.rs-api.version>
     <poi.version>3.16</poi.version>
-    <protobuf.version>3.11.3</protobuf.version>
+    <protobuf.version>3.25.5</protobuf.version>
     <reflections.version>0.9.9</reflections.version>
     <simmetrics.version>4.1.1</simmetrics.version>
     <simplemagic.version>1.11</simplemagic.version>
@@ -282,7 +282,7 @@
             <dependency>
               <groupId>com.puppycrawl.tools</groupId>
               <artifactId>checkstyle</artifactId>
-              <version>6.19</version>
+              <version>8.29</version>
             </dependency>
           </dependencies>
         </plugin>
